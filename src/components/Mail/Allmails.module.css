@@ -1,0 +1,9 @@
+.dv1 {
+    margin-top: 2%;
+    margin-bottom: 10px;
+    background-color: rgb(204, 255, 255);
+    border: 2px solid rgb(1, 2, 3);
+    padding: 1%;
+    
+    border-radius: 10px;
+}
